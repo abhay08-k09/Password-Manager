@@ -22,11 +22,11 @@ The Password Manager is a web based robust application designed to simplify and 
 
 ## 📸 Screenshots
 
-<img src="https://github.com/abhay08-k09/Blogify/blob/main/Demo/1.png" width="90%" />
+<img src="https://github.com/abhay08-k09/Password-Manager/blob/main/Demo/PM%201.png" width="90%" />
 
-<img src="https://github.com/abhay08-k09/Blogify/blob/main/Demo/2.png" width="90%" />
+<img src="https://github.com/abhay08-k09/Password-Manager/blob/main/Demo/PM%202.png" width="90%" />
 
-<img src="https://github.com/abhay08-k09/Blogify/blob/main/Demo/3.png" width="90%" />
+<img src="https://github.com/abhay08-k09/Password-Manager/blob/main/Demo/PM%203.png" width="90%" />
 
 
 Feel free to reach out if you have any queries or need assistance with the project.
